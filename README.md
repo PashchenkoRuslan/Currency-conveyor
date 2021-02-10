@@ -1,4 +1,4 @@
-# -urrency-conveyor
+# Currency-conveyor
 Сonverts rubles to dollars
 
 
